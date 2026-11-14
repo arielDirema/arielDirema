@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="52" height="22" viewBox="0 0 52 22" role="img" aria-label="Dynamic Island">
-  <rect x="1" y="1" width="50" height="20" rx="10" fill="#000000" stroke="#3d444d" stroke-width="1.2"/>
-  <rect x="10" y="8" width="2.4" height="6" rx="1.2" fill="#ffffff"/>
-  <rect x="14.2" y="6" width="2.4" height="10" rx="1.2" fill="#ffffff"/>
-  <rect x="18.4" y="7.5" width="2.4" height="7" rx="1.2" fill="#ffffff"/>
-  <circle cx="40" cy="11" r="3.6" fill="#4cc2ff"/>
-</svg>
